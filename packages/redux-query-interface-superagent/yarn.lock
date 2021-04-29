@@ -5029,10 +5029,10 @@ realpath-native@^1.1.0:
   dependencies:
     util.promisify "^1.0.0"
 
-redux-query@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/redux-query/-/redux-query-3.4.1.tgz#80ad388b591be4dc3d01c3b8b0f7934d095b2b98"
-  integrity sha512-pXAaQ5d0e42zV5yaSEe1TnE+digiLinVqG0k29ROcUaWLGeqRWdQfRu6VMLK6cb9Pp3TIWQOCQkIEbmLp42t4w==
+redux-query@^3.5.0-alpha.1:
+  version "3.5.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/redux-query/-/redux-query-3.5.0-alpha.1.tgz#78bf6379dbf32489b8836eaedc99f6de0b5358b5"
+  integrity sha512-yilPeR9I95W8D/Xf5uQSJ493CIE02JQ/EQAjatacNaO/yUMJ7gMv6S7EuVSvLOqIz4nY5J2MMhXkj8F+8XqNAA==
   dependencies:
     backo "^1.1.0"
     idx "^2.5.6"
@@ -5551,9 +5551,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
