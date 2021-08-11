@@ -4975,9 +4975,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^2.0.0:
   version "2.0.0"
@@ -5380,10 +5380,10 @@ realpath-native@^1.1.0:
   dependencies:
     util.promisify "^1.0.0"
 
-redux-query@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/redux-query/-/redux-query-3.4.1.tgz#80ad388b591be4dc3d01c3b8b0f7934d095b2b98"
-  integrity sha512-pXAaQ5d0e42zV5yaSEe1TnE+digiLinVqG0k29ROcUaWLGeqRWdQfRu6VMLK6cb9Pp3TIWQOCQkIEbmLp42t4w==
+redux-query@^3.5.0-alpha.1:
+  version "3.5.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/redux-query/-/redux-query-3.5.0-alpha.1.tgz#78bf6379dbf32489b8836eaedc99f6de0b5358b5"
+  integrity sha512-yilPeR9I95W8D/Xf5uQSJ493CIE02JQ/EQAjatacNaO/yUMJ7gMv6S7EuVSvLOqIz4nY5J2MMhXkj8F+8XqNAA==
   dependencies:
     backo "^1.1.0"
     idx "^2.5.6"
